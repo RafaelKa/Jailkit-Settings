@@ -1,0 +1,4 @@
+[curl]
+comment = the curl libraries
+paths = /usr/bin/curl, /usr/share/doc/curl, /usr/share/man/man1/curl.1.gz
+includesections = openssl
