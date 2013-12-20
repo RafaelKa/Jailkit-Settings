@@ -1,0 +1,4 @@
+[php5-imagick]
+comment = The php5-imagick package files
+paths = /usr/lib/php5/20100525/imagick.so, /usr/share/doc/php5-imagick, /usr/share/php5-imagick/imagick.ini-dist, /etc/php5/conf.d/imagick.ini
+includesections = imagemagick
