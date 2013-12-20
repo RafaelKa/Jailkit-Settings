@@ -1,0 +1,4 @@
+[php5-curl]
+comment = php5-common package files
+paths = /usr/lib/php5/20100525/curl.so, /usr/share/doc/php5-curl, /usr/share/php5/curl/curl.ini
+includesections = php5, curl
