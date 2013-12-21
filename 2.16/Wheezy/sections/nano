@@ -1,0 +1,3 @@
+[nano]
+comment = nano editor
+paths = /bin/nano, /bin/rnano, /etc/nanorc, /usr/bin/nano, /usr/share/doc-base/nano, /usr/share/doc-base/nano-faq, /usr/share/doc/nano, /usr/share/info/nano.info.gz, /usr/share/locale/*/LC_MESSAGES/nano.mo, /usr/share/man/man*/*nano*, /usr/share/menu/nano, /usr/share/nano
